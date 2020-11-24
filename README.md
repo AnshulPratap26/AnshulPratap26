@@ -8,6 +8,7 @@
 
 ## About me 
 I'm a **Data Science Enthusiast**. I like to work on Machine Learning and Data Science with Python. I love windows Kernel based OS.
+I'm open to contribute in any Projects, love to talk and help people.
 
 
 ## Stack I work with
