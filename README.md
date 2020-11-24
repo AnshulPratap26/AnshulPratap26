@@ -13,14 +13,16 @@ I'm open to collaborate in any ML-DS Projects.
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"></code>
+<code><img height="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
+<code><img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg"></code>
-<code><img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"></code>
+<code><img height="50" src="https://ottostruve.github.io/gsps/slides/gullikson_gsps_python_plotting/Matplotlib_logo.svg.png"></code>
 
 ### Interesting stats
 
