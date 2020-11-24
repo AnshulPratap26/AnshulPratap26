@@ -7,8 +7,7 @@
 
 
 ## About me 
-I'm a Data Science Enthusiast. I like to work on Machine Learning , Data Science with Python. I love windows Kernel based OS.
-I'm open to collaborate in any ML-DS Projects.
+I'm a **Data Science Enthusiast**. I like to work on Machine Learning and Data Science with Python. I love windows Kernel based OS.
 
 
 ## Stack I work with
