@@ -25,7 +25,7 @@ I'm open to contribute in any Projects, love to talk and help people.
 <code><img height="50" src="https://ottostruve.github.io/gsps/slides/gullikson_gsps_python_plotting/Matplotlib_logo.svg.png"></code>
 
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/p4NLw3I4U0idi/200.webp?cid=ecf05e47ut5pr45pj9m7x00dco0dgwmqq1so04zmjkqx6daz&rid=200.webp" width="200px" style="max-width: 40%;"/>
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/p4NLw3I4U0idi/200.webp?cid=ecf05e47ut5pr45pj9m7x00dco0dgwmqq1so04zmjkqx6daz&rid=200.webp" width="300px" style="max-width: 40%;"/>
 
 ### Interesting stats
 
