@@ -27,6 +27,6 @@ I'm open to contribute in any Projects, love to talk and help people.
 ### Interesting stats
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/p4NLw3I4U0idi/200.webp?cid=ecf05e47ut5pr45pj9m7x00dco0dgwmqq1so04zmjkqx6daz&rid=200.webp" width="400px" style="max-width: 40%;"/>
 
-![Anshul's stats](https://github-readme-stats.vercel.app/api?username=AnshulPratap26&show_icons=true&theme=dracula width="284" height="189")
+![Anshul's stats](https://github-readme-stats.vercel.app/api?username=AnshulPratap26&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulPratap26&layout=compact)](https://github.com/AnshulPratap26/github-readme-stats)
